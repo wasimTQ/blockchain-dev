@@ -1,18 +1,17 @@
-# starex
+# Breaking Bad API with Vue
 
-> This is a buying and selling platform
+code for learning the basics about vue from the [breaking bad api](https://breakingbadapi.com/)
 
 ## Build Setup
 
-``` bash
-# install dependencies
+```bash
+# Install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# Serve on localhost:3000
 npm run dev
 
-# build for production with minification
+# Build for production
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
